@@ -23,4 +23,4 @@ Past Events
 
 | Meetup Event | Date | Slides | GitHub Repo | Event Recording | 
 | -----        | ---- | ----   | ----        | ----            |
-| R-Ladies Honolulu Kick-off Meeting | 3/15/24 | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_15_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
+| R-Ladies Honolulu Kick-off Meeting | 3/13/24 | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
