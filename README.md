@@ -8,11 +8,11 @@ As part of the Global R-Ladies group, you can access our presentations, R script
 
 For details about our meetups and to RSVP for our events, visit  our [Meetup page](https://www.meetup.com/rladies-honolulu/). Alternatively, you can reach out to us via email at honolulu@rladies.org 
 
-**Co-Organizers:** 
-Emily Conklin 
-Jayslen Serrano
-Juliette Verstaen
-Madeline Berger
+**Co-Organizers:**     
+* Emily Conklin     
+* Jayslen Serrano     
+* Juliette Verstaen     
+* Madeline Berger
 
 Upcoming events
 ---
