@@ -23,7 +23,7 @@ Past Events
 ---
 **2024**
 
-| Meetup Event | Date | Slides | GitHub Repo | Event Recording | 
-| -----        | ---- | ----   | ----        | ----            |
-| R-Ladies Honolulu Kick-off Meeting | 3/13/24 | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
-| Intro to R and RStudio | 6/13/24 | 
+| Meetup Event | Date | Speaker | Slides | GitHub Repo | Event Recording | 
+| -----        | ---- | ----   | ------ | ----   | ----        |
+| R-Ladies Honolulu Kick-off Meeting | 3/13/24 | NA | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
+| Intro to R and RStudio | 6/13/24 | Dr. Lansing Perng | [Intro to R and RStudio](https://github.com/rladies/meetup-presentations_honolulu/blob/main/06_13_2024_Intro_to_R/RLadies_Intro-and-ggplot.html) | NA | NA |
