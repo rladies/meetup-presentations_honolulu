@@ -14,7 +14,7 @@ For details about our meetups and to RSVP for our events, visit  our [Meetup pag
 * Madeline Berger
 
 **Previous Co-Organizers:**
-Emily Conklin
+* Emily Conklin
 
 Upcoming events
 ---
