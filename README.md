@@ -8,11 +8,13 @@ As part of the Global R-Ladies group, you can access our presentations, R script
 
 For details about our meetups and to RSVP for our events, visit  our [Meetup page](https://www.meetup.com/rladies-honolulu/). Alternatively, you can reach out to us via email at honolulu@rladies.org 
 
-**Co-Organizers:**     
-* Emily Conklin     
+**Co-Organizers:**         
 * Jayslen Serrano     
 * Juliette Verstaen     
 * Madeline Berger
+
+**Previous Co-Organizers:**
+Emily Conklin
 
 Upcoming events
 ---
@@ -24,3 +26,4 @@ Past Events
 | Meetup Event | Date | Slides | GitHub Repo | Event Recording | 
 | -----        | ---- | ----   | ----        | ----            |
 | R-Ladies Honolulu Kick-off Meeting | 3/13/24 | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
+| Intro to R and RStudio | 6/13/24 | 
