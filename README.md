@@ -27,4 +27,4 @@ Past Events
 | -----        | ---- | ----   | ------ | ----   | ----        |
 | R-Ladies Honolulu Kick-off Meeting | 3/13/24 | NA | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
 | Intro to R and RStudio | 6/13/24 | Dr. Lansing Perng | [Intro to R and RStudio](https://github.com/rladies/meetup-presentations_honolulu/blob/main/06_13_2024_Intro_to_R/RLadies_Intro-and-ggplot.html) | NA | NA |
-| Tools for Tidy Tuesday | 1/23/2024 | Juliette Verstaen | NA | [Tools for Tidy Tuesday](https://github.com/j-verstaen/tools_for_tidy_tuesday/tree/main) |
+| Tools for Tidy Tuesday | 10/23/2024 | Juliette Verstaen | NA | [Tools for Tidy Tuesday](https://github.com/j-verstaen/tools_for_tidy_tuesday/tree/main) |
