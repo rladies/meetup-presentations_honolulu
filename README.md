@@ -1,4 +1,4 @@
-Welcome to R-Ladies Honolulu
+Welcome to R-Ladies Honolulu 🌺
 ---
 R-Ladies Honolulu welcomes individuals of all proficiency levels in R, whether you're just starting out or a seasoned R programmer eager to mentor, network, and enhance your skills. Our community, a non-profit organization, is dedicated to fostering the growth of members' R expertise through social, collaborative learning, and knowledge sharing. 
 
