@@ -18,13 +18,20 @@ For details about our meetups and to RSVP for our events, visit  our [Meetup pag
 
 Upcoming events
 ---
+| Meetup Event | Date | Speaker | Slides | GitHub Repo | Event Recording | 
+| -----        | ---- | ----   | ------ | ----   | ----        |
+| ColoRs! | 06/30/25 | Juliette Verstaen | [Slides - tbd]() | TBD | TBD |
+
+
 
 Past Events 
 ---
-**2024**
 
 | Meetup Event | Date | Speaker | Slides | GitHub Repo | Event Recording | 
 | -----        | ---- | ----   | ------ | ----   | ----        |
-| R-Ladies Honolulu Kick-off Meeting | 3/13/24 | NA | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
-| Intro to R and RStudio | 6/13/24 | Dr. Lansing Perng | [Intro to R and RStudio](https://github.com/rladies/meetup-presentations_honolulu/blob/main/06_13_2024_Intro_to_R/RLadies_Intro-and-ggplot.html) | NA | NA |
+| Intro to Geospatial in R | 05/05/25 | Madeline Berger | [Brief Intro to Geospatial Data](https://docs.google.com/presentation/d/1eYdOC0sA0UYjCkFyR0ihceLSMLmJ_r4oHoc4IiYumYc/edit?usp=sharing) | [Code](https://github.com/madelinemberger/Rladies-geospatial) | NA | 
+| Tips and Tricks with R Ladies SB | 11/13/24 | Multiple (share out) | NA | NA | NA |
 | Tools for Tidy Tuesday | 10/23/2024 | Juliette Verstaen | NA | [Tools for Tidy Tuesday](https://github.com/j-verstaen/tools_for_tidy_tuesday/tree/main) |
+| Intro to R and RStudio | 6/13/24 | Dr. Lansing Perng | [Intro to R and RStudio](https://github.com/rladies/meetup-presentations_honolulu/blob/main/06_13_2024_Intro_to_R/RLadies_Intro-and-ggplot.html) | NA | NA |
+| R-Ladies Honolulu Kick-off Meeting | 3/13/24 | NA | [Kick-off Meeting Slides](https://github.com/rladies/meetup-presentations_honolulu/blob/main/03_13_2024_First_Meetup/RLadies%20Kick-off%20Meeting.pdf) | NA | NA |
+
